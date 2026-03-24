@@ -1,4 +1,4 @@
-<img width="1977" height="495" alt="Portada" src="https://github.com/user-attachments/assets/851aab63-6194-4d89-b4a1-4fce6e94634b" />
+<img width="1977" height="495" alt="Portada" src="https://github.com/user-attachments/assets/e8dbe678-4eed-40b8-a26d-f60a1aa2af72" />
 
 # N8N-AWS-IAM-Crear-Eliminar-Usuarios
 Fujo para manipular usuarios de IAM de AWS
