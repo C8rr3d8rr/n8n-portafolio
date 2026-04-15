@@ -1,9 +1,11 @@
-<img width="1977" height="495" alt="Portada" src="https://github.com/user-attachments/assets/47111c2b-8561-4e0b-bf35-42eeb09406aa" />
+
+<img width="1977" height="495" alt="Portada" src="https://github.com/user-attachments/assets/0c4e339b-3158-4439-99d7-0e038d48788d" />
 
 # N8N-Telegram
 Flujo de trabajo simple para un bot de telegram
 
-<img width="947" height="422" alt="image" src="https://github.com/user-attachments/assets/9aa0af1f-603f-48a3-a1ce-91ea8788ac36" />
+<img width="1303" height="1010" alt="Telegram_Agendar_citas" src="https://github.com/user-attachments/assets/904a1cd1-86ac-419b-8b7c-8c8afff66b31" />
+
 
 
 # **Como funciona:**
