@@ -1,8 +1,10 @@
-<img width="1977" height="495" alt="Portada" src="https://github.com/user-attachments/assets/9c182782-c297-458c-a2e8-a9c5652f818a" />
+<img width="1977" height="495" alt="Portada" src="https://github.com/user-attachments/assets/8d1d10f0-dff9-44f1-be76-c4b28bf86376" />
+
 
 # N8N-POSTGRES
 Flujo para tomar informacion de un sheet de gmail para alojarlo en una tabla de postgres
-<img width="1536" height="574" alt="image" src="https://github.com/user-attachments/assets/7899e213-3ad1-40af-8a6e-e048583f0829" />
+<img width="1170" height="422" alt="Postgres" src="https://github.com/user-attachments/assets/61f0dab0-bd2a-4817-865e-4a85d56fae84" />
+
 
 ## **Cómo funciona:**
 Este flujo automatiza la extracción y transformación de datos provenientes de una hoja de cálculo para prepararlos y cargarlos en una base de datos PostgreSQL. El proceso comienza obteniendo la información almacenada en un Google Sheet, la cual es procesada y transformada para ajustarse a la estructura y formato requerido por la tabla de destino en PostgreSQL. Durante esta etapa, el flujo puede limpiar, reorganizar o adaptar los datos para garantizar su consistencia y compatibilidad con el esquema de la base de datos. Finalmente, la información transformada se inserta en la tabla correspondiente, permitiendo integrar datos de hojas de cálculo en sistemas de bases de datos de forma automática y estructurada.
