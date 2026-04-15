@@ -1,9 +1,11 @@
-<img width="1977" height="495" alt="Portada" src="https://github.com/user-attachments/assets/3cafdf3f-8ff2-4b8a-aa13-13ada25c4aa7" />
+<img width="1977" height="495" alt="Portada" src="https://github.com/user-attachments/assets/443bea38-4655-4b88-8609-36ea7185747b" />
+
 
 # N8N-Telegram-BOT
 Flujo de trabajo, en el cual podemos hacer el agendamiento de citas, cancelarlas, mirar la disponibilidad.
 
-<img width="1260" height="1013" alt="image" src="https://github.com/user-attachments/assets/b580a7bf-fc0b-4647-901c-d20b2e0dcc6c" />
+<img width="1303" height="1010" alt="Telegram_Agendar_citas" src="https://github.com/user-attachments/assets/9bc7546f-b2e9-46ce-8238-8c1ee95b7f59" />
+
 
 # **Como funciona:** 
 
