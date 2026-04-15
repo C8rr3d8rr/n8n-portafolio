@@ -1,9 +1,10 @@
-<img width="1977" height="495" alt="Portada" src="https://github.com/user-attachments/assets/45674adf-d353-4e6c-abf4-b3dd6ef37a24" />
+<img width="1977" height="495" alt="Portada" src="https://github.com/user-attachments/assets/1be26de7-5b5d-44da-b886-88480c5d3fab" />
 
 # N8N-Clasificador de correos
 Flujo de trabajo para clasificar correos en carpetas especificas de correo electronico
 
-<img width="1686" height="1080" alt="image" src="https://github.com/user-attachments/assets/0107aa8f-e235-43c1-a7d1-1d6c29c96e8d" />
+<img width="1150" height="1032" alt="Clasificador_correos" src="https://github.com/user-attachments/assets/2517ac75-c58a-4e6d-bc86-a3ca23423856" />
+
 
 ## **Cómo funciona:**
 
